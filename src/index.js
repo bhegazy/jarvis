@@ -9,9 +9,9 @@ exports.handler = function (event, context) {
       event.session.attributes = {}
     }
     /*
-      i)   LaunchRequest       Ex: "Open greeter"
-      ii)  IntentRequest       Ex: "Say hello to John" or "ask greeter to say hello to John"
-      iii) SessionEndedRequest Ex: "exit" or error or timeout
+      i)   LaunchRequest       Ex: "Start Jarvis/ open Jarvis"
+      ii)  IntentRequest       Ex: "Say hello to John" or "ask jarvis to say hello to John"
+      iii) SessionEndedRequest Ex: "exit/stop" or error or timeout
     */
     if (request.type === 'LaunchRequest') {
       handleLaunchRequest(context)

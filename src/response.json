@@ -5,12 +5,12 @@
   "response": {
     "outputSpeech": {
       "type": "PlainText",
-      "text": "Welcome to Greetings skill."
+      "text": "Welcome to Jarvis skill."
     },
     "card": {
       "type": "Simple",
-      "title": "Greetings",
-      "content": "Welcome to Greetings skill."
+      "title": "Jarvis",
+      "content": "Welcome to Jarvis skill."
     },
     "reprompt": {
       "outputSpeech": {

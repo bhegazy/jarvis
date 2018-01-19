@@ -1,0 +1,25 @@
+HelloIntent say hello to {FirstName}
+HelloIntent say hi to {FirstName}
+HelloIntent {FirstName}
+HelloIntent wish our guest {FirstName}
+HelloIntent wish {FirstName}
+
+QuoteIntent get me a quote
+QuoteIntent to get me a quote
+QuoteIntent to quote me
+QuoteIntent get a quote
+QuoteIntent to get a quote
+QuoteIntent get a quote for me
+QuoteIntent to get a quote for me
+
+NextQuoteIntent more
+NextQuoteIntent one more
+NextQuoteIntent yes
+NextQuoteIntent yes please
+
+
+DrumIntent drum roll
+DrumIntent to drum roll
+DrumIntent start drum roll
+DrumIntent winner is
+DrumIntent and the winner is
